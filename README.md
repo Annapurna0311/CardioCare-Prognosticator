@@ -1,5 +1,6 @@
 # heart_failure_prediction_model
 Heart failure prediction involves using various methods, often leveraging machine learning techniques, to assess the likelihood of an individual developing heart failure using Random Forest classifier. The data is taken from the Kaggle source "https://www.kaggle.com/". These predictive models typically analyze a combination of risk factors, medical history, and clinical data to provide an estimate of the person's risk of what kind of failure, for particular symptoms. The goal is to identify individuals at higher risk early on, enabling proactive interventions and personalized care plans. Accurate heart failure prediction can contribute to more effective healthcare strategies, improved patient outcomes, and a reduction in healthcare costs associated with heart failure-related complications.
+Moreover, the generic UI is developed using the Taipy Library that is supportive to the Python Developers who haven't got the taste of real web development.Taipy is an open-source Python library that can be used to build front-end and back-end applications. It's designed to be user-friendly and doesn't require any web design knowledge. 
 
 Heart disease prediction and heart failure prediction are related concepts, but they focus on different aspects of cardiovascular health. Here's a differentiation between the two:
 
